@@ -5,4 +5,4 @@
 
 [Practica7](https://github.com/christiangarza1505813/fcfm/blob/master/Practica%207.ipynb)
 
-[Ejercicio_1_03](https://github.com/christiangarza1505813/fcfm/blob/master/RegresionEjercicio1.ipynb)
+[Ejercicio_1_03](https://github.com/ManuelR37/MineriaDatos/blob/master/Mineria_de_datos_003/Ejercicio1.pdf)

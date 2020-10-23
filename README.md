@@ -12,3 +12,5 @@
 [Resumen](https://github.com/christiangarza1505813/fcfm/blob/master/Resumen_1505813.pdf)
 
 [Base de Datos](https://github.com/christiangarza1505813/fcfm/blob/master/AnalisisBD_1505813.pdf)
+
+[PythonBasico](https://github.com/christiangarza1505813/fcfm/blob/master/PythonBasico_1505813.ipynb)

@@ -14,3 +14,5 @@
 [Base de Datos](https://github.com/christiangarza1505813/fcfm/blob/master/AnalisisBD_1505813.pdf)
 
 [PythonBasico](https://github.com/christiangarza1505813/fcfm/blob/master/PythonBasico_1505813.ipynb)
+
+[Avance 1](https://github.com/christiangarza1505813/fcfm/blob/master/Avance1-Pia_Equipo3_Grupo3.pdf)

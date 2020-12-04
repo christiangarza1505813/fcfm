@@ -22,3 +22,5 @@
 [Avance 2](https://github.com/asielromero/Mineria_de_Datos_2020_Grupo03/blob/master/Avance%202.ipynb)
 
 [Poster](https://github.com/christiangarza1505813/fcfm/blob/master/Poster.pptx)
+
+[PIA](https://github.com/christiangarza1505813/fcfm/blob/master/PIA_03_03.pdf)
